@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Things \nThe App</string>
+    <string name="next_btn">Next</string>
+    <string name="back_btn">Back</string>
+    <string name="chosen_thing">Chosen Thing:</string>
+</resources>
